@@ -1,5 +1,6 @@
 # NAME: Emby
-# DOMAIN-SUFFIX: 12
+# DOMAIN-SUFFIX: 11
+# DOMAIN-KEYWORD: 1
 # TOTAL: 12
 DOMAIN-SUFFIX,hxd.as174.de
 DOMAIN-SUFFIX,free.lilyemby.com
@@ -12,4 +13,4 @@ DOMAIN-SUFFIX,v1.uhdnow.com
 DOMAIN-SUFFIX,v2.embyplus.org
 DOMAIN-SUFFIX,drivemby.inch.red
 DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
-DOMAIN-SUFFIX,embygo.hxdemby.com
+DOMAIN-KEYWORD,hxdemby.com
